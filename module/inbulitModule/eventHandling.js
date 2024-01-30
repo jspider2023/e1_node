@@ -1,0 +1,27 @@
+let event =require('events')
+let eventEmitter = new event.EventEmitter()
+let eventEmitter2 = new event.EventEmitter()
+//eventEmitter2.setMaxListeners(50)
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter2.on('hello',()=>{console.log('hello')})
+// eventEmitter.on('saymyname',()=>{
+//     console.log('i am different')
+// })
+// eventEmitter.on('saymyname',print)
+// function print(name="admin"){
+//     console.log(`my name is hello ${name}`)
+// }
+// eventEmitter.removeListener('saymyname',print)
+// eventEmitter.emit('saymyname',"utsav_jha")
+
+// let x= eventEmitter.eventNames()
+// console.log(x)
